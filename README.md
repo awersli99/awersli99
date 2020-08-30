@@ -7,7 +7,9 @@
 ---
 
 ![Awersli99's github stats](https://github-readme-stats.vercel.app/api?username=awersli99&count_private=true)
-<br />
+
+---
+
 ![Awersli99's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awersli99&&hide_langs_below=1&layout=compact)
 
 
