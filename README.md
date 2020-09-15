@@ -1,6 +1,6 @@
 ### Hello, I'm Adam - aka [awersli99](https://aworsley.me) 👋
 
-## I'm a 16 year old student studying computer science in the UK.
+## I'm a 17 year old student studying computer science in the UK.
 - 🗒️ I'm currently learning Vim, Vue.js and Python.
 - 🐧 I'm also currently gaining a deeper understanding of linux.
 
