@@ -1,4 +1,4 @@
-### Hello, I'm Adam - aka [awersli99](https://aworsley.me) 👋
+### Hello, I'm Adam - aka [awersli99](https://adamworsley.me) 👋
 
 ## I'm a 19 year old student studying computer science in the UK.
 - 🗒️ I'm currently learning C++.
